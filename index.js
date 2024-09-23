@@ -65,8 +65,8 @@
           { 
             category: 'filter-game',
             title: 'Bataille Navale En Réseau',
-            background: '/src/public/images/interface-bataille-naval.png',
-            images: ['/src/public/images/projet-BATAILLENAVAL.png'],
+            background: 'interface-bataille-naval.png',
+            images: ['projet-BATAILLENAVAL.png'],
             description: `
               <strong>Février 2023</strong><br>
               <strong>Fonctionnalités :</strong><br>
@@ -78,9 +78,9 @@
           {
             category: 'filter-appDesktop', 
             title : 'Draw With ME ',
-            background: '/src/public/images/projet-DRAW.png',
-            images: ['/src/public/images/projet-DRAW.png'],
-            langage : ['/src/public/images/java.png'], 
+            background: 'projet-DRAW.png',
+            images: ['images/projet-DRAW.png'],
+            langage : ['java.png'], 
             description: `
               <strong>FEVRIER 2021</strong><br>
               Application qui permet de dessiner plusieurs formes géométriques.<br>
@@ -92,9 +92,9 @@
           {
             category: 'filter-appDesktop',
             title: 'Intensité Carbonne En Temps Réel',
-            background: '/src/public/images/projet-CARBONINTENSITY.png',
-            images: ['/src/public/images/projet-CARBONINTENSITY.png'],
-            langage : ['/src/public/images/javafx.png'],
+            background: 'projet-CARBONINTENSITY.png',
+            images: ['projet-CARBONINTENSITY.png'],
+            langage : ['javafx.png'],
             description: `
             <strong>MARS 2024 :</strong><br>
             <strong>Fonctionnalité :</strong> Une application qui permet de récupérer l'intensité carbone en temps réel, ainsi que la consommation et la production d'électricité selon les filières, en fonction de la ville choisie.<br>
@@ -104,9 +104,9 @@
           { 
             category: 'filter-web', 
             title : "Plateforme De Location De Logement",
-            background: '/src/public/images/projet-RESERVATIONLOGEMENT.png',
-            images: ['/src/public/images/projet-RESERVATIONLOGEMENT.png'],
-            langage : ['/src/public/images/php.png'],
+            background: 'projet-RESERVATIONLOGEMENT.png',
+            images: ['projet-RESERVATIONLOGEMENT.png'],
+            langage : ['images/php.png'],
             description: `
                   <strong>FÉVRIER 2022:</strong><br>
                   <strong>Fonctionnalités :</strong><br>
@@ -117,9 +117,9 @@
           },
           { 
             category: 'filter-web',
-            background: '/src/public/images/projet-PORTEFOLIO.png',
-            images: ['/src/public/images/projet-PORTEFOLIO.png'],
-            langage : ['/src/public/images/php.png'], 
+            background: 'projet-PORTEFOLIO.png',
+            images: ['projet-PORTEFOLIO.png'],
+            langage : ['php.png'], 
             description: 'Description du projet web.' 
           }
         ],
@@ -127,8 +127,8 @@
           { 
             category: 'filter-game',
             title: 'Bataille Navale En Réseau',
-            background: '/src/public/images/interface-bataille-naval.png',
-            images: ['/src/public/images/projet-BATAILLENAVAL.png'],
+            background: 'interface-bataille-naval.png',
+            images: ['projet-BATAILLENAVAL.png'],
             description: `
               <strong>Février 2023</strong><br>
               <strong>Fonctionnalités :</strong><br>
@@ -143,9 +143,9 @@
           {
             category: 'filter-appDesktop', 
             title : 'Draw With ME ',
-            background: '/src/public/images/projet-DRAW.png',
-            images: ['/src/public/images/projet-DRAW.png'],
-            langage : ['/src/public/images/java.png'], 
+            background: 'projet-DRAW.png',
+            images: ['projet-DRAW.png'],
+            langage : ['java.png'], 
             description: `
               <strong>FEVRIER 2021</strong><br>
               Application qui permet de dessiner plusieurs formes géométriques.<br>
@@ -157,9 +157,9 @@
           {
             category: 'filter-appDesktop',
             title: 'Intensité Carbonne En Temps Réel',
-            background: '/src/public/images/projet-CARBONINTENSITY.png',
-            images: ['/src/public/images/projet-CARBONINTENSITY.png'],
-            langage : ['/src/public/images/javafx.png'],
+            background: 'projet-CARBONINTENSITY.png',
+            images: ['projet-CARBONINTENSITY.png'],
+            langage : ['javafx.png'],
             description: `
             <strong>MARS 2024 :</strong><br>
             <strong>Fonctionnalité :</strong> Une application qui permet de récupérer l'intensité carbone en temps réel, ainsi que la consommation et la production d'électricité selon les filières, en fonction de la ville choisie.<br>
@@ -170,17 +170,17 @@
         '.filter-web': [
            { 
             category: 'filter-web',
-            background: '/src/public/images/projet-PORTEFOLIO.png',
-            images: ['/src/public/images/projet-PORTEFOLIO.png'],
-            langage : ['/src/public/images/php.png'], 
+            background: 'projet-PORTEFOLIO.png',
+            images: ['projet-PORTEFOLIO.png'],
+            langage : ['php.png'], 
             description: 'Description du projet web.' 
           },
           { 
             category: 'filter-web', 
             title : "Plateforme De Location De Logement",
-            background: '/src/public/images/projet-RESERVATIONLOGEMENT.png',
-            images: ['/src/public/images/projet-RESERVATIONLOGEMENT.png'],
-            langage : ['/src/public/images/php.png'],
+            background: 'projet-RESERVATIONLOGEMENT.png',
+            images: ['projet-RESERVATIONLOGEMENT.png'],
+            langage : ['php.png'],
             description: `
                   <strong>FÉVRIER 2022</strong><br>
                   <strong>Fonctionnalités :</strong><br>
